@@ -9,7 +9,7 @@ import { BrowserRouter as Router } from 'react-router-dom';
 ReactDOM.render(
   <React.StrictMode>
     <I18nextProvider i18n={i18n}>
-      <Router>
+      <Router basename="/subway-creator">
         <App />
       </Router>
     </I18nextProvider>

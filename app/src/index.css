@@ -115,6 +115,7 @@ span svg {
 .home h1 {
   font-size: 2em;
   margin-bottom: 30px;
+  padding: 0 30px;
 }
 .home h2 {
   margin: 20px 0;
@@ -250,6 +251,18 @@ span svg {
   button {
     padding: 8px 20px;
     font-size: 0.9em;
+    margin: 25px auto 0;
+  }
+  .container {
+    max-width: 280px;
+    margin: 28px auto 30px;
+  }
+  .container h3 {
+    font-size: 0.9em;
+  }
+  .container li {
+    padding: 6px;
+    font-size: 0.8em;
   }
   header {
     padding: 20px 30px;
@@ -269,23 +282,32 @@ span svg {
   .order.container {
     max-width: 700px;
   }
+  .order.container {
+    margin: 15px auto 15px;
+  }
   .home button {
     color: black;
     padding: 15px 30px;
     font-size: 1.3em;
     width: 280px;
   }
+  .container ul {
+    max-height: 300px;
+  }
   .confirm div {
     width: 100%;
+    max-height: 320px;
+    font-size: 0.8em;
   }
   .confirm ~ a button {
-    margin-top: 40px;
+    margin-top: 30px;
   }
   .order p {
     margin-top: 25px;
     padding: 0 18px;
+    font-size: 0.8em;
   }
-  .container li {
-    padding: 8px;
+  .modal-content {
+    max-width: 280px;
   }
 }

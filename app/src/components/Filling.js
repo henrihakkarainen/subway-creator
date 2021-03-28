@@ -21,7 +21,7 @@ const Filling = ({ addFilling, sub }) => {
       variants={containerVariants}
     >
       
-      <h3>{t('steps.1')} {!sub.filling ? '*' : ''}</h3>
+      <h3>{t('steps.1')}{!sub.filling ? '*' : ''}</h3>
       <ul>
         {fillings.map(item => {
           let spanClass = sub.filling === item ? 'active' : '';
