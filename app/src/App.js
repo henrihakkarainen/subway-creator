@@ -36,10 +36,11 @@ function App() {
   /* Relocate to home page if any page is refreshed
      because applied selections will be lost. */
   useEffect(() => {
-    if (!sub.filling) {
+    const location = history.location;
+    if (!sub.filling && (location.pathname !== '/' && location.pathname !== '/sub')) {
       history.push('/');
     }
-  }, [sub.filling, history])
+  }, [sub.filling, history]);
 
   useEffect(() => {
     const lang = localStorage.getItem('lang');

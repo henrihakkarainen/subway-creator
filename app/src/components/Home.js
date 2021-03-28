@@ -49,7 +49,7 @@ const Home = ({ reset, openModal }) => {
       >
         {t('welcome')}
       </motion.h1>
-      <Link to="/sub">
+      <Link to="/sub" onClick={() => reset()}>
         <motion.button
           variants={elemVariants}
           whileHover={{
@@ -61,7 +61,6 @@ const Home = ({ reset, openModal }) => {
               repeatType: 'reverse'
             }
           }}
-          onClick={() => reset()}
         >
           {t('designSub')}&#174;
         </motion.button>
