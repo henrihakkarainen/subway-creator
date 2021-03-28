@@ -1,0 +1,129 @@
+{
+  "translations": {
+    "welcome": "Tervetuloa",
+    "designSub": "Suunnittele Subi",
+    "or": "TAI",
+    "changeLanguage": "Vaihda Kieli",
+    "selectLanguage": "Valitse Kieli",
+    "english": "Englanti",
+    "finnish": "Suomi",
+    "next": "Seuraava",
+    "back": "Takaisin",
+    "finish": "Valmis",
+    "yes": "Kyllä",
+    "no": "Ei",
+    "required": "Pakollinen - valitse yksi vaihtoehdoista",
+    "selected": "Valittu",
+    "steps": {
+      "1": "Vaihe 1: Valitse Täyte",
+      "2": "Vaihe 2: Valitse Leipä",
+      "3": "Vaihe 3: Valitse Juusto",
+      "4": "Vaihe 4: Paahdetaanko Subi?",
+      "5": "Vaihe 5: Valitse Lisätäytteet (valinnainen)",
+      "6": "Vaihe 6: Valitse Kasvikset",
+      "7": "Vaihe 7: Valitse Kastike (max 2)",
+      "8": "Vaihe 8: Valitse Mausteet (valinnainen)"
+    },
+    "fillings": {
+      "asm": "American Steakhouse Melt",
+      "bt": "Beef Taco",
+      "cc": "Chicken Chorizo",
+      "cf": "Kana Fajita",
+      "ct": "Kana Teriyaki",
+      "cq": "Chickpea Quinoa",
+      "ham": "Kinkku",
+      "bmt": "Italian B.M.T",
+      "pp": "Vegaaninen kasvispihvi",
+      "rcb": "Kananrinta",
+      "si": "Spicy Italian",
+      "sc": "Steak & Cheese",
+      "sm": "Subway Melt",
+      "tuna": "Tonnikala",
+      "tb": "Kalkkuna",
+      "vd": "Veggie Delite"
+    },
+    "breads": {
+      "9wheat": "9 viljan leipä",
+      "9honey": "Hunajakaura",
+      "gf": "Gluteeniton leipä",
+      "multi": "Monijyvä",
+      "po": "Juusto-oregano",
+      "rye": "Tumma leipä",
+      "white": "Vaalea leipä"
+    },
+    "cheeses": {
+      "cheddar": "Tavallinen juusto",
+      "mozzarella": "Mozzarella-raaste",
+      "pepperjack": "Pepperjack",
+      "no": "Ei juustoa"
+    },
+    "roast": {
+      "yes": "Subi paahdetaan.",
+      "no": "Subia ei paahdeta."
+    },
+    "extras": {
+      "bacon": "Pekoni",
+      "bc": "Aurajuusto",
+      "chorizo": "Chorizo",
+      "dc": "Tuplajuusto",
+      "dm": "Tuplaliha",
+      "guacamole": "Guacamole (avocado)"
+    },
+    "veggies": {
+      "corn": "Maissi",
+      "cucumber": "Kurkku",
+      "gp": "Paprika",
+      "jalapeno": "Jalapeno",
+      "lettuce": "Salaatti",
+      "olive": "Oliivi",
+      "pickles": "Suolakurkku",
+      "onion": "Punasipuli",
+      "tomato": "Tomaatti",
+      "no": "Ei kasviksia"
+    },
+    "sauces": {
+      "bbq": "BBQ-kastike",
+      "cs": "Southwest-kastike",
+      "garlic": "Valkosipulikastike",
+      "hm": "Hunajasinappikastike",
+      "chili": "Tulinen kastike",
+      "lm": "Kevytmajoneesikastike",
+      "sc": "Makea chilikastike",
+      "so": "Makea sipulikastike",
+      "no": "Ei kastiketta"
+    },
+    "spices": {
+      "chili": "Chilihiutaleet",
+      "feta": "Fetajuusto",
+      "oil": "Öljy",
+      "oregano": "Oregano",
+      "pepper": "Pippuriseos",
+      "onion": "Paahdettu sipuli",
+      "salt": "Merisuola",
+      "vinegar": "Punaviinietikka"
+    },
+    "confirm": {
+      "review": "Tarkastele luomustasi",
+      "titlePart1": "Suunnittelit",
+      "titlePart2": "subin seuraavilla täytteillä:",
+      "bread": "Leipä",
+      "cheese": "Juusto",
+      "roast": "Paahto",
+      "extras": "Lisätäytteet",
+      "vegetables": "Kasvikset",
+      "sauces": "Kastikkeet",
+      "spices": "Mausteet",
+      "none": "ei valittu",
+      "startOver": "Aloita alusta"
+    },
+    "tooltips": {
+      "extras": "Jokainen valinta lisää lopullista hintaa.",
+      "pickOne": "Pakollinen - valitse vähintään yksi vaihtoehto",
+      "spices": "Lisää makua ilman lisämaksua."
+    },
+    "notfound": {
+      "title": "Sivua ei löytynyt",
+      "home": "Takaisin etusivulle"
+    }
+  }
+}

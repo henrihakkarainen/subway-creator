@@ -1,0 +1,129 @@
+{
+  "translations": {
+    "welcome": "Welcome to Subway Creator",
+    "designSub": "Design Your Sub",
+    "or": "OR",
+    "changeLanguage": "Change Language",
+    "selectLanguage": "Select Language",
+    "english": "English",
+    "finnish": "Finnish",
+    "next": "Next",
+    "back": "Back",
+    "finish": "Finish",
+    "yes": "Yes",
+    "no": "No",
+    "required": "Required - please select one",
+    "selected": "Selected",
+    "steps": {
+      "1": "Step 1: Choose Your Sandwich",
+      "2": "Step 2: Choose Your Bread",
+      "3": "Step 3: Choose Your Cheese",
+      "4": "Step 4: Roast Your Sandwich?",
+      "5": "Step 5: Choose Extras (optional)",
+      "6": "Step 6: Choose Vegetables",
+      "7": "Step 7: Choose Sauces (max 2)",
+      "8": "Step 8: Choose Spices (optional)"
+    },
+    "fillings": {
+      "asm": "American Steakhouse Melt",
+      "bt": "Beef Taco",
+      "cc": "Chicken Chorizo",
+      "cf": "Chicken Fajita",
+      "ct": "Chicken Teriyaki",
+      "cq": "Chickpea Quinoa",
+      "ham": "Ham",
+      "bmt": "Italian B.M.T",
+      "pp": "Plant Patty",
+      "rcb": "Roast Chicken Breast",
+      "si": "Spicy Italian",
+      "sc": "Steak & Cheese",
+      "sm": "Subway Melt",
+      "tuna": "Tuna",
+      "tb": "Turkey Breast",
+      "vd": "Veggie Delite"
+    },
+    "breads": {
+      "9wheat": "9-Grain Wheat",
+      "9honey": "9-Grain Honey Oat",
+      "gf": "Gluten-Free Bread",
+      "multi": "Multi-grain Flatbread",
+      "po": "Parmesan Oregano",
+      "rye": "Rye Bread",
+      "white": "White Bread"
+    },
+    "cheeses": {
+      "cheddar": "Cheddar",
+      "mozzarella": "Mozzarella",
+      "pepperjack": "Pepperjack",
+      "no": "No cheese"
+    },
+    "roast": {
+      "yes": "Sandwich will be roasted.",
+      "no": "Sandwich will not be roasted."
+    },
+    "extras": {
+      "bacon": "Bacon",
+      "bc": "Blue Cheese",
+      "chorizo": "Chorizo",
+      "dc": "Double Cheese",
+      "dm": "Double Meat",
+      "guacamole": "Guacamole"
+    },
+    "veggies": {
+      "corn": "Corn",
+      "cucumber": "Cucumber",
+      "gp": "Green pepper",
+      "jalapeno": "Jalapeño",
+      "lettuce": "Lettuce",
+      "olive": "Olive",
+      "pickles": "Pickles",
+      "onion": "Red onion",
+      "tomato": "Tomato",
+      "no": "No vegetables"
+    },
+    "sauces": {
+      "bbq": "Barbecue",
+      "cs": "Chipotle Southwest",
+      "garlic": "Garlic",
+      "hm": "Honey Mustard",
+      "chili": "Hot Chili",
+      "lm": "Light Mayonnaise",
+      "sc": "Sweet Chili",
+      "so": "Sweet Onion",
+      "no": "No sauce"
+    },
+    "spices": {
+      "chili": "Chili flakes",
+      "feta": "Feta",
+      "oil": "Oil",
+      "oregano": "Oregano",
+      "pepper": "Pepper",
+      "onion": "Roasted onion",
+      "salt": "Sea salt",
+      "vinegar": "Vinegar"
+    },
+    "confirm": {
+      "review": "Review you design",
+      "titlePart1": "You designed a",
+      "titlePart2": "sandwich with following specifications:",
+      "bread": "Bread",
+      "cheese": "Cheese",
+      "roast": "Roast",
+      "extras": "Extras",
+      "vegetables": "Vegetables",
+      "sauces": "Sauces",
+      "spices": "Spices",
+      "none": "none",
+      "startOver": "Start Over"
+    },
+    "tooltips": {
+      "extras": "Each selection will add some extra costs.",
+      "pickOne": "Required - please, select at least one option",
+      "spices": "Add some extra flavour for free."
+    },
+    "notfound": {
+      "title": "Not Found",
+      "home": "Back to Home"
+    }
+  }
+}
