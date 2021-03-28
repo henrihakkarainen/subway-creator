@@ -16,7 +16,7 @@ i18n
   },
   lng: languages.includes(language) ? language : 'en',
   fallbackLng: 'en',
-  debug: true,
+  debug: false,
   ns: ['translations'],
   defaultNS: 'translations',
   keySeparator: '.',
